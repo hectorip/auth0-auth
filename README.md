@@ -1,6 +1,6 @@
 # \<auth0-auth\>
 
-Implements authentication provided by auth0
+Implements authentication as provided by [Auth0](https://auth0.com/)
 
 ## Install the Polymer-CLI
 
