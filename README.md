@@ -1,6 +1,8 @@
 # \<auth0-auth\>
 
-Implements authentication as provided by [Auth0](https://auth0.com/)
+Implements authentication as provided by [Auth0](https://auth0.com/).
+After authenticating a  user, it stores the values in localstorage.
+
 
 ## Install the Polymer-CLI
 
